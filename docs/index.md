@@ -1,1 +1,3 @@
 [Documentación.pdf](https://jorgeabad.github.io/colas_pilas_c_plus_plus/Doc.pdf)
+
+<embed src="https://jorgeabad.github.io/colas_pilas_c_plus_plus/Doc.pdf" width="1000px" height="800px" type="application/pdf"/>
