@@ -1,30 +1,3 @@
 # colas_pilas_c_plus_plus
 
-<div itemprop="text" class="Box-body p-0 blob-wrapper data type-text ">
-      
-  <div class="render-wrapper ">
-    <div class="render-container js-render-target is-render-automatic is-render-requested is-render-ready" data-identity="49a928f3-c1ca-43fe-aad3-2d4befa772ec" data-host="https://render.githubusercontent.com" data-type="pdf" style="height: 62627px;">
-      <img class="octospinner mx-auto" alt="" src="https://github.githubassets.com/images/spinners/octocat-spinner-128.gif" width="64" height="64">
-      <div class="render-viewer-error">Sorry, something went wrong. <a href="https://github.com/jorgeabad/colas_pilas_c_plus_plus/blob/master/docs/Doc.pdf">Reload?</a></div>
-      <div class="render-viewer-fatal">Sorry, we cannot display this file.</div>
-      <div class="render-viewer-invalid">Sorry, this file is invalid so it cannot be displayed.</div>
-      <iframe class="render-viewer " src="https://render.githubusercontent.com/view/pdf?commit=ef82e5aff6e110bb3ce2f676ffaac70a0d7f0ed7&amp;enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f6a6f726765616261642f636f6c61735f70696c61735f635f706c75735f706c75732f656638326535616666366531313062623363653266363736666661616337306130643766306564372f646f63732f446f632e706466&amp;nwo=jorgeabad%2Fcolas_pilas_c_plus_plus&amp;path=docs%2FDoc.pdf&amp;repository_id=266512364&amp;repository_type=Repository#49a928f3-c1ca-43fe-aad3-2d4befa772ec" sandbox="allow-scripts allow-same-origin allow-top-navigation" title="File display">
-          Viewer requires iframe.
-      </iframe>
-    </div>
-  </div>
-
-  </div>
-
-
-  <div class="render-shell js-render-shell">
-    
-<div class="pdf-container loaded" data-file="https://raw.githubusercontent.com/jorgeabad/colas_pilas_c_plus_plus/7bf454881f71aba1ddfa07a37ff471db9aad7b50/docs/Doc.pdf" data-worker="/assets/pdf/worker-de03a6262fe73d7da5661d85cbb46962.js" data-bcmap-dir="https://render.githubusercontent.com/pdf/">
-<canvas class="pdf-page" data-page="0" height="2588" width="2000"></canvas><canvas class="pdf-page" data-page="1" height="2588" width="2000"></canvas><canvas class="pdf-page" data-page="2" height="2588" width="2000"></canvas><canvas class="pdf-page" data-page="3" height="2588" width="2000"></canvas><canvas class="pdf-page" data-page="4" height="2588" width="2000"></canvas><canvas class="pdf-page" data-page="5" height="2588" width="2000"></canvas><canvas class="pdf-page" data-page="6" height="2588" width="2000"></canvas><canvas class="pdf-page" data-page="7" height="2588" width="2000"></canvas><canvas class="pdf-page" data-page="8" height="2588" width="2000"></canvas><canvas class="pdf-page" data-page="9" height="2588" width="2000"></canvas><canvas class="pdf-page" data-page="10" height="2588" width="2000"></canvas><canvas class="pdf-page" data-page="11" height="2588" width="2000"></canvas><canvas class="pdf-page" data-page="12" height="2588" width="2000"></canvas><canvas class="pdf-page" data-page="13" height="2588" width="2000"></canvas><canvas class="pdf-page" data-page="14" height="2588" width="2000"></canvas><canvas class="pdf-page" data-page="15" height="2588" width="2000"></canvas><canvas class="pdf-page" data-page="16" height="2588" width="2000"></canvas><canvas class="pdf-page" data-page="17" height="2588" width="2000"></canvas><canvas class="pdf-page" data-page="18" height="2588" width="2000"></canvas><canvas class="pdf-page" data-page="19" height="2588" width="2000"></canvas><canvas class="pdf-page" data-page="20" height="2588" width="2000"></canvas><canvas class="pdf-page" data-page="21" height="2588" width="2000"></canvas><canvas class="pdf-page" data-page="22" height="2588" width="2000"></canvas><canvas class="pdf-page" data-page="23" height="2588" width="2000"></canvas><canvas class="pdf-page" data-page="24" height="2588" width="2000"></canvas><canvas class="pdf-page" data-page="25" height="2588" width="2000"></canvas><canvas class="pdf-page" data-page="26" height="2588" width="2000"></canvas><canvas class="pdf-page" data-page="27" height="2588" width="2000"></canvas><canvas class="pdf-page" data-page="28" height="2588" width="2000"></canvas><canvas class="pdf-page" data-page="29" height="2588" width="2000"></canvas><canvas class="pdf-page" data-page="30" height="2588" width="2000"></canvas><canvas class="pdf-page" data-page="31" height="2588" width="2000"></canvas><canvas class="pdf-page" data-page="32" height="2588" width="2000"></canvas><canvas class="pdf-page" data-page="33" height="2588" width="2000"></canvas><canvas class="pdf-page" data-page="34" height="2588" width="2000"></canvas><canvas class="pdf-page" data-page="35" height="2588" width="2000"></canvas><canvas class="pdf-page" data-page="36" height="2588" width="2000"></canvas><canvas class="pdf-page" data-page="37" height="2588" width="2000"></canvas><canvas class="pdf-page" data-page="38" height="2588" width="2000"></canvas><canvas class="pdf-page" data-page="39" height="2588" width="2000"></canvas><canvas class="pdf-page" data-page="40" height="2588" width="2000"></canvas><canvas class="pdf-page" data-page="41" height="2588" width="2000"></canvas><canvas class="pdf-page" data-page="42" height="2588" width="2000"></canvas><canvas class="pdf-page" data-page="43" height="2588" width="2000"></canvas><canvas class="pdf-page" data-page="44" height="2588" width="2000"></canvas><canvas class="pdf-page" data-page="45" height="2588" width="2000"></canvas><canvas class="pdf-page" data-page="46" height="2588" width="2000"></canvas><canvas class="pdf-page" data-page="47" height="2588" width="2000"></canvas><canvas class="pdf-page" data-page="48" height="2588" width="2000"></canvas></div>
-
-<div id="js-click-for-more" class="click-for-more" style="display: none;">
-  <button class="button">More Pages</button>
-  <div class="spinner"><img src="../pdf/spinner.gif" alt="Loading more pages"></div>
-</div>
-
-  </div>
+If the embedded PDF is not displayed properly, <a href="https://github.com/jorgeabad/colas_pilas_c_plus_plus/blob/master/docs/Doc.pdf" target="_blank">please click here.</a> <embed src="https://github.com/jorgeabad/colas_pilas_c_plus_plus/blob/master/docs/Doc.pdf" width="1000px" height="800px" />
